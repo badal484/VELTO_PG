@@ -19,4 +19,8 @@ const createNotification = async (userId, type, title, message, link = '/') => {
   }
 };
 
+<<<<<<< HEAD
 module.exports = createNotification;
+=======
+module.exports = createNotification;
+>>>>>>> 5bbf7a6 (add utils)

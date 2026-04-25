@@ -25,4 +25,8 @@ const calculateRefund = (totalPrice, checkInDate) => {
   };
 };
 
+<<<<<<< HEAD
 module.exports = calculateRefund;
+=======
+module.exports = calculateRefund;
+>>>>>>> 5bbf7a6 (add utils)
