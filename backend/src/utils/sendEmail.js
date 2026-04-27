@@ -165,8 +165,4 @@ const sendEmail = async (options, attempt = 1) => {
   }
 };
 
-<<<<<<< HEAD
 module.exports = sendEmail;
-=======
-module.exports = sendEmail;
->>>>>>> 5bbf7a6 (add utils)
